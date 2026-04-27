@@ -103,6 +103,9 @@ Donyell Malen (FWD)
 ## Output
 ![Squad Sheet](png/SQUAD_FORMATION_IMAGE.png)
 
+[Final report -- ](Report/SQL_Project_Report.pdf)
+
+[Final report -- ](SQL_query/Football Squad SQL query)
 ---
 
 ## Key Insights
