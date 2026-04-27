@@ -105,7 +105,7 @@ Donyell Malen (FWD)
 
 [Final report -- ](Report/SQL_Project_Report.pdf)
 
-[Final report -- ](SQL_query/Football Squad SQL query)
+[SQL Query -- ](SQL_query/Football Squad SQL query.in)
 ---
 
 ## Key Insights
