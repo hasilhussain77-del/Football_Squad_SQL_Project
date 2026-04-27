@@ -50,7 +50,7 @@ A position-based scoring model was implemented:
 
 ---
 
-## ⚽ Team Formation (4-3-3)
+## Team Formation (4-3-3)
 
 - GK: 1  
 - DF: 4  
@@ -101,7 +101,7 @@ Donyell Malen (FWD)
 ---
 
 ## Output
-![Squad Sheet](outputs/squad_sheet.png)
+![Squad Sheet](png/SQUAD_FORMATION_IMAGE.png)
 
 ---
 
